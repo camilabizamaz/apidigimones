@@ -1,0 +1,40 @@
+/* INICIO ESTILOS NAVBAR */
+
+
+/* FIN ESTILOS NAVBAR */
+
+
+/* INICIO ESTILO CARD DETALLE POKEMON */
+
+#cardPokemon img {
+    max-height: 230px;
+    
+}
+
+/* FIN ESTILO CARD DETALLE POKEMON */
+
+
+
+/* INICIO ESTILOS TABLA MIS POKEMONES */
+
+#cuerpoTabla img {
+    width: 100px;
+    height: auto;
+
+}
+
+/* FIN ESTILOS TABLA MIS POKEMONES */
+
+
+
+/* INICIO ESTILOS FOOTER */
+footer i {
+    font-size: 35px;
+    color: royalblue;
+}
+footer p {
+    font-size: 25px;
+    color: rgb(24, 11, 146);
+    font-weight: 800;
+}
+/* FIN ESTILOS FOOTER */
